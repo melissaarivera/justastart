@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Melissa Rivera</h1>
+    <p>Operations Coordinator Co-op at Just A Start</p>
+  </header>
+
+  <nav class="main-nav">
+    <ul>
+      <li><a href="index.html">About Me</a></li>
+      <li><a href="coop.html">About the Co-Op</a></li>
+      <li><a href="contributions.html">My Contributions</a></li>
+      <li><a href="projects.html" class="active">Projects</a></li>
+      <li><a href="development.html">Development Opportunities</a></li>
+      <li><a href="connect.html">Stay Connected</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+    <section>
+      <h2>Salesforce Data Cleanup: Part 2</h2>
+
+      <h4>Mapping Field Names from Form Assembly forms to corresponding Salesforce Objects</h4>
+      <p>I utilized the same sheets from Part 1 and cross-referenced them with the fields from the Application (full) form and Inquiry form on Form Assembly to ensure alignment between the data collected and the Salesforce fields. This time, I focused on the Contact and Program Application objects.</p>
+      <ul>
+        <li><b>Contact Object:</b> </li>
+        <li><b>Program Application Object:</b> </li>
+      </ul>
+
+    <h2>Form Assembly Field Mapping</h2>
+    <!-- Paste your Google Sheets iframe snippet below -->
+    <iframe src="https://docs.google.com/spreadsheets/d/1GytOpUZmtWqtDjysiFjz7frLO66WYUhN/edit?usp=sharing&ouid=111577512239038965918&rtpof=true&sd=true" width="100%" height="500px"></iframe>
+
+   <script src="script.js"></script>
+</body>
+</html>     
