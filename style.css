@@ -115,6 +115,7 @@ h3 {
   font-size: 1.1rem;
 }
 
+
 .findings-list {
   padding-left: 1.5rem;
 }
@@ -176,7 +177,7 @@ path {
   border-radius: 15px;
 }
 
-/* GIS Map Styling */
+
 #map {
     height: 450px !important;  /* Forces a height */
     width: 100% !important;   /* Forces full width of the container */
@@ -187,7 +188,6 @@ path {
 }
 
 
-/* Hover Tooltip Styling */
 .custom-tooltip {
     background-color: #2c3e50;
     color: #ffffff;
